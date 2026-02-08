@@ -1,5 +1,3 @@
-# hubitat-ambivisionpro
-[REAMDE.md](https://github.com/user-attachments/files/25164216/REAMDE.md)
 # AmbiVision PRO - Hubitat Driver
 
 A comprehensive Hubitat Elevation driver for controlling AmbiVision PRO ambient lighting controllers via UDP communication.
